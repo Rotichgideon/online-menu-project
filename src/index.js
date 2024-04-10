@@ -1,4 +1,4 @@
-// Function to fetch film data from API endpoint
+
 function fetchFilmData() {
     fetch('http://localhost:3000/films')
       .then(response => {
