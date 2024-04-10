@@ -1,7 +1,22 @@
 {
-    "name": "my-package",
+    "name": "dango-flat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
     "scripts": {
-      "build": "babel src -d lib",
-      "test": "jest"
-    }
-  }
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Rhonajoy/dango-flat.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Rhonajoy/dango-flat/issues"
+    },
+    "homepage": "https://github.com/Rhonajoy/dango-flat#readme"
+}
