@@ -1,7 +1,6 @@
 {
   "name": "dango-flat",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "anymatch": "^3.1.3",
@@ -54,6 +53,6 @@
   "bugs": {
     "url": "https://github.com/Rotichgideon/online-menu-project/issues"
   },
-  "homepage": "https://github.com/Rotichgideon/online-menu-project#readme"
+  "homepage": "https://github.com/Rotichgideon/online-menu-project#readme",
+  "description": ""
 }
-
